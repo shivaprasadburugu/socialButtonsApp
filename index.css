@@ -33,3 +33,9 @@
   background-color: #1d4ed8;
   color: white;
 }
+@media (min-width:600px) {
+    .button-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+}
